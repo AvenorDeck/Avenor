@@ -176,7 +176,7 @@ The left panel explains the findings. The right panel summarizes completed and s
 | Were transactions executed for this showcase? | No wallet was connected and no transactions were submitted. |
 | Is there a hosted public demo? | A public Avenor application URL has not been provided. This repository is a product overview. |
 | Is it production-ready? | Production readiness is not claimed. Function availability depends on network connectivity, services and configuration. |
-| What has been checked? | Individual interface checks and builds have passed. The full verification suite has a known blocker: a missing external research dataset required by one test. |
+| What has been checked? | Local application, contract, wallet and launch checks passed (1,265 automated tests). The absent external research dataset is an explicitly skipped comparison, not a production-readiness approval. |
 | Has this version been independently audited? | No independent security audit was performed for this version. |
 
 ## About this repository
